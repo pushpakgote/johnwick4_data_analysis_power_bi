@@ -1,6 +1,6 @@
-# johnwick4_data_analysis_power_bi
+# JOHN WICK 4  - Twitter Data Analysis
 
-![Loading GIF ...](./johnwick4_video.gif)
+![](johnwick4_video.gif)
 
 This project is a Twitter data analysis of the movie "John Wick 4" for the first two days after its release. The analysis includes total tweets, views, likes, retweets, sentiment analysis, most popular characters, etc The project was carried out using Python and Power BI.
 
